@@ -3,15 +3,6 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=hjos123&label=Profile%20views&color=0e75b6&style=flat"
-    alt="hjos123" /> 
-  </p>
-
-<br>
-
-<p><img align="right" src="https://github.com/hjos123/hjos123/blob/main/animation_500_kxa883sd.gif" alt="hjos123" /></p>
-
-
 - 🌱 I’m currently learning Web Development and other programming languages
 
 - 📫 How to reach me **gysus233@gmail.com**
