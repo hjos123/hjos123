@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jesus Saldaña</h1>
-<h3 align="center">Full-Stak development.</h3>
+<h3 align="center">Full-Stack development.</h3>
 
 <br>
 
